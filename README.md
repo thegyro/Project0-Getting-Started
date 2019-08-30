@@ -9,5 +9,8 @@ Project 0 Getting Started
 
 ### (Readme)
 
-![1](images/render_1_no_name.PNG)
+1. ![render no name](images/render_1_no_name.PNG)
+2. ![render name](images/render_1_name.PNG)
+3. ![nsight timeline](images/timeline_nsight.PNG)
+4. ![nsight debug](images/nsight_debugging.PNG)
 
