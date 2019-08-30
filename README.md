@@ -9,14 +9,16 @@ Project 0 Getting Started
 
 ### (Readme)
 
-![render no name](images/render_1_no_name.PNG)
+### Part 2.2: WebGL
+![chrome](images/chrome.PNG)
 
 
+### Part 4: Modify
 ![render name](images/render_1_name.PNG)
 
-
+### Part 5: Analyze
 ![nsight timeline](images/timeline_nsight.PNG)
 
-
+### Part 6: Nsight Debugging
 ![nsight debug](images/nsight_debugging.PNG)
 
